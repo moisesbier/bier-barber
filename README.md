@@ -34,9 +34,11 @@ Olá, bem-vindo ao meu projeto onde desenvolvi uma página de barbearia moderna,
 
 ### Responsividade Mobile ###
 
-<img src=".jpg" width="300px"/>
-<img src=".jpg" width="300px"/>
-<img src=".jpg" width="300px"/>
+<img src="https://i.imgur.com/Z8SkYPs.jpeg" width="300px"/>
+<img src="https://i.imgur.com/zVIRcTx.jpeg" width="300px"/>
+<img src="https://i.imgur.com/FkRFIan.jpeg" width="300px"/>
+<img src="https://i.imgur.com/DHI3am2.jpeg" width="300px"/>
+<img src="https://i.imgur.com/WQYa4V7.jpeg" width="300px"/>
 
 > Versão final
 
